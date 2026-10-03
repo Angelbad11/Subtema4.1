@@ -1,0 +1,14 @@
+C:\Users\UCA40403\Downloads\ListadDoble\subtema4.1\subtema4.1\obj\Debug\subtema4.1.csproj.AssemblyReference.cache
+C:\Users\UCA40403\Downloads\ListadDoble\subtema4.1\subtema4.1\obj\Debug\subtema4.1.csproj.CoreCompileInputs.cache
+C:\Users\UCA40403\Downloads\ListadDoble\subtema4.1\subtema4.1\bin\Debug\subtema4.1.exe.config
+C:\Users\UCA40403\Downloads\ListadDoble\subtema4.1\subtema4.1\bin\Debug\subtema4.1.exe
+C:\Users\UCA40403\Downloads\ListadDoble\subtema4.1\subtema4.1\bin\Debug\subtema4.1.pdb
+C:\Users\UCA40403\Downloads\ListadDoble\subtema4.1\subtema4.1\obj\Debug\subtema4.1.exe
+C:\Users\UCA40403\Downloads\ListadDoble\subtema4.1\subtema4.1\obj\Debug\subtema4.1.pdb
+C:\Users\UCA40418\Downloads\subtema4.3\subtemas4.1\bin\Debug\subtema4.1.exe.config
+C:\Users\UCA40418\Downloads\subtema4.3\subtemas4.1\bin\Debug\subtema4.1.exe
+C:\Users\UCA40418\Downloads\subtema4.3\subtemas4.1\bin\Debug\subtema4.1.pdb
+C:\Users\UCA40418\Downloads\subtema4.3\subtemas4.1\obj\Debug\subtema4.1.csproj.AssemblyReference.cache
+C:\Users\UCA40418\Downloads\subtema4.3\subtemas4.1\obj\Debug\subtema4.1.csproj.CoreCompileInputs.cache
+C:\Users\UCA40418\Downloads\subtema4.3\subtemas4.1\obj\Debug\subtema4.1.exe
+C:\Users\UCA40418\Downloads\subtema4.3\subtemas4.1\obj\Debug\subtema4.1.pdb
